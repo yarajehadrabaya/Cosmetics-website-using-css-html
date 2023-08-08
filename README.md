@@ -18,4 +18,9 @@ ________________________________________________________________________________
 ###### NOTE: "Responsive for laptop and computer only"
 _______________________________________________________________________________________________________________________
 ### Pictures of the website design:
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)][(https://www.youtube.com/embed/<VIDEO_ID>](https://youtu.be/HSoVk4y3Kbw))
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<VIDEO_ID>)
+
 
