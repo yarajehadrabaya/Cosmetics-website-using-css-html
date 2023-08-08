@@ -4,7 +4,7 @@
 it is a Cosmetics-website .
 The goal of this website is to display and sell skin care products
 ### 🌍 Live Demo :
-[We Beauty](webeauty-rab.netlify.app) - "Responsive for laptop and computer only"
+[We Beauty](https://webeauty-rab.netlify.app/) - "Responsive for laptop and computer only"
 ### Authors:
 * 	👩💻Yara Jehad Rabaya
 _______________________________________________________________________________________________________________________
